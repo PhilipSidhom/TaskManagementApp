@@ -37,14 +37,17 @@ To use the app:
 
 - Main Screen:
 
+![Screenshot 2023-11-23 173722](https://github.com/PhilipSidhom/TaskManagementApp/assets/78218034/1bf4f84a-553e-4b2a-a3b5-a61581433284)
 
 
 - Details Screen:
 
+![Screenshot 2023-11-23 185402](https://github.com/PhilipSidhom/TaskManagementApp/assets/78218034/d3dd704e-8fc8-4fba-bf98-fec0d8a1eebe)
 
 
 - Delete Screen:
 
+![Screenshot 2023-11-23 185421](https://github.com/PhilipSidhom/TaskManagementApp/assets/78218034/eff4c587-0260-43a4-8bce-91eefe65475f)
 
 
 
